@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Matang"
+    },
+    {
+      "id": 1,
+      "name": "Setengah Matang"
+    },
+    {
+      "id": 2,
+      "name": "Tidak Matang"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
